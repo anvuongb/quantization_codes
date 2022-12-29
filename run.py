@@ -66,7 +66,7 @@ if __name__ == "__main__":
     print("max_iter={}, stop_thres={}".format(args.max_iter, args.stop_thres))
     print("mode={}".format(mode))
     
-    log_fn = "logs/mode{}.sigma{}.seed{}.time{}".format(args.mode, args.sigma, args.seed, int(time.time()))
+    log_fn = "logs/{}_levels/mode{}.sigma{}.seed{}.time{}.log".format(Q, args.mode, args.sigma, args.seed, int(time.time()))
     with open(log_fn, "w") as f:
         f.writelines("X={}, N={}, M={}, Sigma={}\n".format(X, N, M, sigma))
         f.writelines("start={}, end={}\n".format(int_start, int_end))
@@ -127,7 +127,12 @@ if __name__ == "__main__":
     
     if mode == 4:
         start = time.time()
-        current_best, current_best_thres, _ = exhaustive_search_quantization_4_level(Px, N, Q, M, S, Phi)
+        if Q == 5:
+            current_best, current_best_thres, _ = exhaustive_search_quantization_5_level(Px, N, Q, M, S, Phi)
+        if Q == 4:
+            current_best, current_best_thres, _ = exhaustive_search_quantization_4_level(Px, N, Q, M, S, Phi)
+        if Q == 3:
+            current_best, current_best_thres, _ = exhaustive_search_quantization_3_level(Px, N, Q, M, S, Phi)
         stop = time.time()
         thres = [S[0]] + list(current_best_thres) + [S[-1]]
         print("Finished")

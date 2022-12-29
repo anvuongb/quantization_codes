@@ -86,6 +86,22 @@ def exhaustive_search_quantization_4_level(Px, N, Q, M, S, Phi):
                 
     return current_best, current_best_thres, data
 
+def exhaustive_search_quantization_5_level(Px, N, Q, M, S, Phi):
+    search_thresh = S[1:-1]
+    data = {}
+    current_best = -np.inf
+    current_best_thres = None
+    for idx_h1, h1 in tqdm.tqdm(enumerate(search_thresh[:-3])):
+        for idx_h2, h2 in enumerate(search_thresh[idx_h1+1:-2]):
+            for idx_h3, h3 in enumerate(search_thresh[idx_h2+1:-1]):
+                for idx_h4, h4 in enumerate(search_thresh[idx_h3+1:]):
+                    data[(h1, h2, h3, h4)] = calculate_I(Px, Q, M, Phi, [S[0], h1, h2, h3, h4, S[-1]])
+                    if data[(h1, h2, h3, h4)] > current_best:
+                        current_best = data[(h1, h2, h3, h4)]
+                        current_best_thres = (h1, h2, h3, h4)
+                
+    return current_best, current_best_thres, data
+
 # Quantizer functions for DP
 def calculate_transition_matrix(Px, N, Q, S, Phi):
     Ayx = np.zeros((N, Q))
