@@ -1,0 +1,396 @@
+X=[-4, -2, 0, 2, 4], N=100, M=5, Sigma=1
+start=-8, end=8
+
+Start solving by DP
+    given input distribution [0.17708333 0.31944444 0.04861111 0.24652778 0.20833333]
+    optimal quantizer [-8.   -3.04 -0.64  0.8   3.04  8.  ]
+    took 13.9569s
+End solving by DP
+
+Start solving by exhaustive search
+iter 0
+    optimal quantizer [-8.   -7.84 -3.04  0.    2.88  8.  ]
+    optimal I(X;Z) 1.239450860870904
+    took 1142.4712s
+iter 1
+    optimal quantizer [-8.   -7.68 -3.04  0.    2.88  8.  ]
+    optimal I(X;Z) 1.239454796037524
+    took 1097.9158s
+iter 2
+    optimal quantizer [-8.   -7.52 -3.04  0.    2.88  8.  ]
+    optimal I(X;Z) 1.2394618687102241
+    took 1097.7117s
+iter 3
+    optimal quantizer [-8.   -7.36 -3.04  0.    2.88  8.  ]
+    optimal I(X;Z) 1.2394742552145974
+    took 1056.0977s
+iter 4
+    optimal quantizer [-8.   -7.2  -3.04  0.    2.88  8.  ]
+    optimal I(X;Z) 1.2394953910341426
+    took 1023.8331s
+iter 5
+    optimal quantizer [-8.   -7.04 -3.04  0.    2.88  8.  ]
+    optimal I(X;Z) 1.239530526637952
+    took 1021.1817s
+iter 6
+    optimal quantizer [-8.   -6.88 -3.04  0.    2.88  8.  ]
+    optimal I(X;Z) 1.2395874222198116
+    took 1017.6151s
+iter 7
+    optimal quantizer [-8.   -6.72 -3.04  0.    2.88  8.  ]
+    optimal I(X;Z) 1.2396771544520735
+    took 1016.3018s
+iter 8
+    optimal quantizer [-8.   -6.56 -3.04  0.    2.88  8.  ]
+    optimal I(X;Z) 1.2398149652420922
+    took 1013.4562s
+iter 9
+    optimal quantizer [-8.   -6.4  -3.04  0.    2.88  8.  ]
+    optimal I(X;Z) 1.240021026588322
+    took 1010.3906s
+iter 10
+    optimal quantizer [-8.   -6.24 -3.04  0.    2.88  8.  ]
+    optimal I(X;Z) 1.2403209329699307
+    took 1018.8425s
+iter 11
+    optimal quantizer [-8.   -6.08 -3.04  0.    2.88  8.  ]
+    optimal I(X;Z) 1.2407456742590897
+    took 1111.2529s
+iter 12
+    optimal quantizer [-8.   -5.92 -3.04  0.    2.88  8.  ]
+    optimal I(X;Z) 1.2413308030794683
+    took 1156.0673s
+iter 13
+    optimal quantizer [-8.   -5.76 -3.04  0.    2.88  8.  ]
+    optimal I(X;Z) 1.2421145078650067
+    took 1169.3287s
+iter 14
+    optimal quantizer [-8.   -5.6  -3.04  0.    2.88  8.  ]
+    optimal I(X;Z) 1.2431343520942868
+    took 1162.5997s
+iter 15
+    optimal quantizer [-8.   -5.44 -2.88  0.    2.88  8.  ]
+    optimal I(X;Z) 1.244626140441475
+    took 1155.4333s
+iter 16
+    optimal quantizer [-8.   -5.28 -2.88  0.    2.88  8.  ]
+    optimal I(X;Z) 1.2465411517448008
+    took 1095.0065s
+iter 17
+    optimal quantizer [-8.   -5.12 -2.88  0.    2.88  8.  ]
+    optimal I(X;Z) 1.2488254511889783
+    took 1035.0933s
+iter 18
+    optimal quantizer [-8.   -4.96 -2.88  0.    2.88  8.  ]
+    optimal I(X;Z) 1.2514595395242056
+    took 1027.8536s
+iter 19
+    optimal quantizer [-8.   -4.8  -2.88  0.    2.88  8.  ]
+    optimal I(X;Z) 1.254385625215988
+    took 1018.4620s
+iter 20
+    optimal quantizer [-8.   -4.64 -2.72  0.    2.88  8.  ]
+    optimal I(X;Z) 1.2575893231219273
+    took 1017.1011s
+iter 21
+    optimal quantizer [-8.   -4.48 -2.72  0.    2.88  8.  ]
+    optimal I(X;Z) 1.2615451825528674
+    took 1085.5797s
+iter 22
+    optimal quantizer [-8.   -4.32 -2.72  0.    2.88  8.  ]
+    optimal I(X;Z) 1.2653921960614958
+    took 1082.6222s
+iter 23
+    optimal quantizer [-8.   -4.16 -2.56  0.    2.88  8.  ]
+    optimal I(X;Z) 1.2694207641709863
+    took 1079.6206s
+iter 24
+    optimal quantizer [-8.   -4.   -2.4   0.16  2.88  8.  ]
+    optimal I(X;Z) 1.2735655262606411
+    took 1112.6643s
+iter 25
+    optimal quantizer [-8.   -3.84 -2.24  0.16  2.88  8.  ]
+    optimal I(X;Z) 1.277613514085631
+    took 1113.3509s
+iter 26
+    optimal quantizer [-8.   -3.68 -2.08  0.16  2.88  8.  ]
+    optimal I(X;Z) 1.2813549573505123
+    took 1107.8870s
+iter 27
+    optimal quantizer [-8.   -3.52 -1.12  0.48  3.04  8.  ]
+    optimal I(X;Z) 1.286270536227343
+    took 1099.8937s
+iter 28
+    optimal quantizer [-8.   -3.36 -0.8   0.64  3.04  8.  ]
+    optimal I(X;Z) 1.2923681593235545
+    took 1071.1736s
+iter 29
+    optimal quantizer [-8.   -3.2  -0.8   0.64  3.04  8.  ]
+    optimal I(X;Z) 1.2955856489601523
+    took 1046.0283s
+iter 30
+    optimal quantizer [-8.   -3.04 -0.64  0.8   3.04  8.  ]
+    optimal I(X;Z) 1.2959310624720466
+    took 1024.8790s
+iter 31
+    optimal quantizer [-8.   -3.04 -0.64  0.8   3.04  8.  ]
+    optimal I(X;Z) 1.2959310624720466
+    took 928.7356s
+iter 32
+    optimal quantizer [-8.   -3.04 -0.64  0.8   3.04  8.  ]
+    optimal I(X;Z) 1.2959310624720466
+    took 855.0680s
+iter 33
+    optimal quantizer [-8.   -3.04 -0.64  0.8   3.04  8.  ]
+    optimal I(X;Z) 1.2959310624720466
+    took 845.7955s
+iter 34
+    optimal quantizer [-8.   -3.04 -0.64  0.8   3.04  8.  ]
+    optimal I(X;Z) 1.2959310624720466
+    took 836.2795s
+iter 35
+    optimal quantizer [-8.   -3.04 -0.64  0.8   3.04  8.  ]
+    optimal I(X;Z) 1.2959310624720466
+    took 889.6169s
+iter 36
+    optimal quantizer [-8.   -3.04 -0.64  0.8   3.04  8.  ]
+    optimal I(X;Z) 1.2959310624720466
+    took 948.5047s
+iter 37
+    optimal quantizer [-8.   -3.04 -0.64  0.8   3.04  8.  ]
+    optimal I(X;Z) 1.2959310624720466
+    took 947.3956s
+iter 38
+    optimal quantizer [-8.   -3.04 -0.64  0.8   3.04  8.  ]
+    optimal I(X;Z) 1.2959310624720466
+    took 931.7396s
+iter 39
+    optimal quantizer [-8.   -3.04 -0.64  0.8   3.04  8.  ]
+    optimal I(X;Z) 1.2959310624720466
+    took 931.5041s
+iter 40
+    optimal quantizer [-8.   -3.04 -0.64  0.8   3.04  8.  ]
+    optimal I(X;Z) 1.2959310624720466
+    took 916.4204s
+iter 41
+    optimal quantizer [-8.   -3.04 -0.64  0.8   3.04  8.  ]
+    optimal I(X;Z) 1.2959310624720466
+    took 909.4353s
+iter 42
+    optimal quantizer [-8.   -3.04 -0.64  0.8   3.04  8.  ]
+    optimal I(X;Z) 1.2959310624720466
+    took 898.8233s
+iter 43
+    optimal quantizer [-8.   -3.04 -0.64  0.8   3.04  8.  ]
+    optimal I(X;Z) 1.2959310624720466
+    took 872.6455s
+iter 44
+    optimal quantizer [-8.   -3.04 -0.64  0.8   3.04  8.  ]
+    optimal I(X;Z) 1.2959310624720466
+    took 865.1286s
+iter 45
+    optimal quantizer [-8.   -3.04 -0.64  0.8   3.04  8.  ]
+    optimal I(X;Z) 1.2959310624720466
+    took 860.1617s
+iter 46
+    optimal quantizer [-8.   -3.04 -0.64  0.8   3.04  8.  ]
+    optimal I(X;Z) 1.2959310624720466
+    took 833.7091s
+iter 47
+    optimal quantizer [-8.   -3.04 -0.64  0.8   3.04  8.  ]
+    optimal I(X;Z) 1.2959310624720466
+    took 830.9213s
+iter 48
+    optimal quantizer [-8.   -3.04 -0.64  0.8   3.04  8.  ]
+    optimal I(X;Z) 1.2959310624720466
+    took 819.6980s
+iter 49
+    optimal quantizer [-8.   -3.04 -0.64  0.8   3.04  8.  ]
+    optimal I(X;Z) 1.2959310624720466
+    took 761.4691s
+iter 50
+    optimal quantizer [-8.   -3.04 -0.64  0.8   3.04  8.  ]
+    optimal I(X;Z) 1.2959310624720466
+    took 670.6675s
+iter 51
+    optimal quantizer [-8.   -3.04 -0.64  0.8   3.04  8.  ]
+    optimal I(X;Z) 1.2959310624720466
+    took 657.1786s
+iter 52
+    optimal quantizer [-8.   -3.04 -0.64  0.8   3.04  8.  ]
+    optimal I(X;Z) 1.2959310624720466
+    took 644.7407s
+iter 53
+    optimal quantizer [-8.   -3.04 -0.64  0.8   3.04  8.  ]
+    optimal I(X;Z) 1.2959310624720466
+    took 631.7728s
+iter 54
+    optimal quantizer [-8.   -3.04 -0.64  0.8   3.04  8.  ]
+    optimal I(X;Z) 1.2959310624720466
+    took 618.9774s
+iter 55
+    optimal quantizer [-8.   -3.04 -0.64  0.8   3.04  8.  ]
+    optimal I(X;Z) 1.2959310624720466
+    took 611.0251s
+iter 56
+    optimal quantizer [-8.   -3.04 -0.64  0.8   3.04  8.  ]
+    optimal I(X;Z) 1.2959310624720466
+    took 605.0316s
+iter 57
+    optimal quantizer [-8.   -3.04 -0.64  0.8   3.04  8.  ]
+    optimal I(X;Z) 1.2959310624720466
+    took 583.0011s
+iter 58
+    optimal quantizer [-8.   -3.04 -0.64  0.8   3.04  8.  ]
+    optimal I(X;Z) 1.2959310624720466
+    took 568.3641s
+iter 59
+    optimal quantizer [-8.   -3.04 -0.64  0.8   3.04  8.  ]
+    optimal I(X;Z) 1.2959310624720466
+    took 631.3682s
+iter 60
+    optimal quantizer [-8.   -3.04 -0.64  0.8   3.04  8.  ]
+    optimal I(X;Z) 1.2959310624720466
+    took 626.7155s
+iter 61
+    optimal quantizer [-8.   -3.04 -0.64  0.8   3.04  8.  ]
+    optimal I(X;Z) 1.2959310624720466
+    took 610.9087s
+iter 62
+    optimal quantizer [-8.   -3.04 -0.64  0.8   3.04  8.  ]
+    optimal I(X;Z) 1.2959310624720466
+    took 598.7531s
+iter 63
+    optimal quantizer [-8.   -3.04 -0.64  0.8   3.04  8.  ]
+    optimal I(X;Z) 1.2959310624720466
+    took 578.1102s
+iter 64
+    optimal quantizer [-8.   -3.04 -0.64  0.8   3.04  8.  ]
+    optimal I(X;Z) 1.2959310624720466
+    took 556.9573s
+iter 65
+    optimal quantizer [-8.   -3.04 -0.64  0.8   3.04  8.  ]
+    optimal I(X;Z) 1.2959310624720466
+    took 544.1716s
+iter 66
+    optimal quantizer [-8.   -3.04 -0.64  0.8   3.04  8.  ]
+    optimal I(X;Z) 1.2959310624720466
+    took 530.2605s
+iter 67
+    optimal quantizer [-8.   -3.04 -0.64  0.8   3.04  8.  ]
+    optimal I(X;Z) 1.2959310624720466
+    took 467.6047s
+iter 68
+    optimal quantizer [-8.   -3.04 -0.64  0.8   3.04  8.  ]
+    optimal I(X;Z) 1.2959310624720466
+    took 429.8118s
+iter 69
+    optimal quantizer [-8.   -3.04 -0.64  0.8   3.04  8.  ]
+    optimal I(X;Z) 1.2959310624720466
+    took 415.3963s
+iter 70
+    optimal quantizer [-8.   -3.04 -0.64  0.8   3.04  8.  ]
+    optimal I(X;Z) 1.2959310624720466
+    took 400.4810s
+iter 71
+    optimal quantizer [-8.   -3.04 -0.64  0.8   3.04  8.  ]
+    optimal I(X;Z) 1.2959310624720466
+    took 385.8643s
+iter 72
+    optimal quantizer [-8.   -3.04 -0.64  0.8   3.04  8.  ]
+    optimal I(X;Z) 1.2959310624720466
+    took 370.4966s
+iter 73
+    optimal quantizer [-8.   -3.04 -0.64  0.8   3.04  8.  ]
+    optimal I(X;Z) 1.2959310624720466
+    took 355.7857s
+iter 74
+    optimal quantizer [-8.   -3.04 -0.64  0.8   3.04  8.  ]
+    optimal I(X;Z) 1.2959310624720466
+    took 341.0729s
+iter 75
+    optimal quantizer [-8.   -3.04 -0.64  0.8   3.04  8.  ]
+    optimal I(X;Z) 1.2959310624720466
+    took 324.9313s
+iter 76
+    optimal quantizer [-8.   -3.04 -0.64  0.8   3.04  8.  ]
+    optimal I(X;Z) 1.2959310624720466
+    took 310.3292s
+iter 77
+    optimal quantizer [-8.   -3.04 -0.64  0.8   3.04  8.  ]
+    optimal I(X;Z) 1.2959310624720466
+    took 295.3749s
+iter 78
+    optimal quantizer [-8.   -3.04 -0.64  0.8   3.04  8.  ]
+    optimal I(X;Z) 1.2959310624720466
+    took 281.0185s
+iter 79
+    optimal quantizer [-8.   -3.04 -0.64  0.8   3.04  8.  ]
+    optimal I(X;Z) 1.2959310624720466
+    took 265.4368s
+iter 80
+    optimal quantizer [-8.   -3.04 -0.64  0.8   3.04  8.  ]
+    optimal I(X;Z) 1.2959310624720466
+    took 250.1435s
+iter 81
+    optimal quantizer [-8.   -3.04 -0.64  0.8   3.04  8.  ]
+    optimal I(X;Z) 1.2959310624720466
+    took 234.7365s
+iter 82
+    optimal quantizer [-8.   -3.04 -0.64  0.8   3.04  8.  ]
+    optimal I(X;Z) 1.2959310624720466
+    took 219.0573s
+iter 83
+    optimal quantizer [-8.   -3.04 -0.64  0.8   3.04  8.  ]
+    optimal I(X;Z) 1.2959310624720466
+    took 203.5213s
+iter 84
+    optimal quantizer [-8.   -3.04 -0.64  0.8   3.04  8.  ]
+    optimal I(X;Z) 1.2959310624720466
+    took 187.9357s
+iter 85
+    optimal quantizer [-8.   -3.04 -0.64  0.8   3.04  8.  ]
+    optimal I(X;Z) 1.2959310624720466
+    took 173.2107s
+iter 86
+    optimal quantizer [-8.   -3.04 -0.64  0.8   3.04  8.  ]
+    optimal I(X;Z) 1.2959310624720466
+    took 157.1108s
+iter 87
+    optimal quantizer [-8.   -3.04 -0.64  0.8   3.04  8.  ]
+    optimal I(X;Z) 1.2959310624720466
+    took 141.3827s
+iter 88
+    optimal quantizer [-8.   -3.04 -0.64  0.8   3.04  8.  ]
+    optimal I(X;Z) 1.2959310624720466
+    took 125.0396s
+iter 89
+    optimal quantizer [-8.   -3.04 -0.64  0.8   3.04  8.  ]
+    optimal I(X;Z) 1.2959310624720466
+    took 109.9001s
+iter 90
+    optimal quantizer [-8.   -3.04 -0.64  0.8   3.04  8.  ]
+    optimal I(X;Z) 1.2959310624720466
+    took 94.3753s
+iter 91
+    optimal quantizer [-8.   -3.04 -0.64  0.8   3.04  8.  ]
+    optimal I(X;Z) 1.2959310624720466
+    took 78.7609s
+iter 92
+    optimal quantizer [-8.   -3.04 -0.64  0.8   3.04  8.  ]
+    optimal I(X;Z) 1.2959310624720466
+    took 63.2364s
+iter 93
+    optimal quantizer [-8.   -3.04 -0.64  0.8   3.04  8.  ]
+    optimal I(X;Z) 1.2959310624720466
+    took 47.4447s
+iter 94
+    optimal quantizer [-8.   -3.04 -0.64  0.8   3.04  8.  ]
+    optimal I(X;Z) 1.2959310624720466
+    took 31.4728s
+iter 95
+    optimal quantizer [-8.   -3.04 -0.64  0.8   3.04  8.  ]
+    optimal I(X;Z) 1.2959310624720466
+    took 16.0054s
+Took 67015.7528
+End solving by exhaustive search
