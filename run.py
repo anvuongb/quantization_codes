@@ -27,7 +27,7 @@ def get_args():
                         help="region to search for optimal values")
     parser.add_argument("--num-interval", type=int, default=200,
                         help="number of intervals to divide")
-    parser.add_argument("--sigma", type=float, default=1,
+    parser.add_argument("--sigma", type=float, default=0.75,
                         help="channel noise level")
     parser.add_argument("--input-dist", type=str,
                         help="input distribution")
@@ -66,7 +66,9 @@ if __name__ == "__main__":
     print("max_iter={}, stop_thres={}".format(args.max_iter, args.stop_thres))
     print("mode={}".format(mode))
     
-    log_fn = "logs/{}_levels/mode{}.sigma{}.seed{}.time{}.log".format(Q, args.mode, args.sigma, args.seed, int(time.time()))
+    if not os.path.exists("logs/sigma_{}/{}_levels".format(sigma, Q)):
+        os.makedirs("logs/sigma_{}/{}_levels".format(sigma, Q))
+    log_fn = "logs/sigma_{}/{}_levels/mode{}.sigma{}.seed{}.time{}.log".format(sigma, Q, args.mode, args.sigma, args.seed, int(time.time()))
     with open(log_fn, "w") as f:
         f.writelines("X={}, N={}, M={}, Sigma={}\n".format(X, N, M, sigma))
         f.writelines("start={}, end={}\n".format(int_start, int_end))
