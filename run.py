@@ -4,13 +4,13 @@ import os
 import ast
 import scipy
 from helpers import *
-import yaml
+# import yaml
 import time
 
 
-def read_yaml(file_path):
-    with open(file_path, "r") as f:
-        return yaml.safe_load(f)
+# def read_yaml(file_path):
+#     with open(file_path, "r") as f:
+#         return yaml.safe_load(f)
 
 def get_args():
     parser = argparse.ArgumentParser(description="This script finds the optimal quantization and input distribution",

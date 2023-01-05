@@ -1,0 +1,47 @@
+X=[-4 -2  0  2  4], N=50, M=5, Sigma=1
+start=-8, end=8
+max_iter=10, stop_thres=0.0001
+mode=3
+
+iter 0
+    given input distribution [0.04672897 0.3271028  0.04672897 0.28971963 0.28971963]
+    optimal quantizer [-8.   -3.2  -0.64  0.64  2.88  8.  ]
+    optimal input distribution [0.28008907 0.15054367 0.13870139 0.13494998 0.29571588]
+    optimal I(X;Z) 1.3510614295636982
+    took 1.6499s
+iter 1
+    given input distribution [0.28008907 0.15054367 0.13870139 0.13494998 0.29571588]
+    optimal quantizer [-8.   -2.88 -0.96  0.96  2.88  8.  ]
+    optimal input distribution [0.30802205 0.08359564 0.21676461 0.08359564 0.30802205]
+    optimal I(X;Z) 1.3911935742211532
+    took 1.6083s
+iter 2
+    given input distribution [0.30802205 0.08359564 0.21676461 0.08359564 0.30802205]
+    optimal quantizer [-8.   -2.88 -1.28  1.28  2.88  8.  ]
+    optimal input distribution [0.32700838 0.03938887 0.2672055  0.03938887 0.32700838]
+    optimal I(X;Z) 1.409404513221221
+    took 1.6150s
+iter 3
+    given input distribution [0.32700838 0.03938887 0.2672055  0.03938887 0.32700838]
+    optimal quantizer [-8.   -2.56 -1.28  1.28  2.56  8.  ]
+    optimal input distribution [3.44098935e-01 9.26741731e-07 3.11800274e-01 9.26741731e-07
+ 3.44098935e-01]
+    optimal I(X;Z) 1.4251612901352058
+    took 1.6719s
+iter 4
+    given input distribution [3.44098935e-01 9.26741731e-07 3.11800274e-01 9.26741731e-07
+ 3.44098935e-01]
+    optimal quantizer [-8.   -2.56 -1.6   1.6   2.56  8.  ]
+    optimal input distribution [3.42621805e-01 1.25490714e-08 3.14756363e-01 1.25490714e-08
+ 3.42621805e-01]
+    optimal I(X;Z) 1.4336032955322393
+    took 1.6118s
+iter 5
+    given input distribution [3.42621805e-01 1.25490714e-08 3.14756363e-01 1.25490714e-08
+ 3.42621805e-01]
+    optimal quantizer [-8.   -2.56 -1.6   1.6   2.56  8.  ]
+    optimal input distribution [3.42621805e-01 1.25490714e-08 3.14756363e-01 1.25490714e-08
+ 3.42621805e-01]
+    optimal I(X;Z) 1.4336032955322393
+    took 1.6686s
+stopping criterion met

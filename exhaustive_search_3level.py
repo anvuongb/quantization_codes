@@ -4,7 +4,7 @@ import os
 import ast
 import scipy
 from helpers import *
-import yaml
+# import yaml
 import time
 import pickle
 
@@ -12,7 +12,7 @@ if __name__ == "__main__":
     
     X = [-3,0,3]
     Q = len(X)
-    N = 200
+    N = 50
     search_interval = [-8,8]
     int_start = search_interval[0]
     int_end = search_interval[1]

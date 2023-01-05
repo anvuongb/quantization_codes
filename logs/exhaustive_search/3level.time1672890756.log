@@ -26,3 +26,971 @@ iter 4
     optimal input distribution [4.99999995e-01 2.32943557e-09 5.00000001e-01]
     optimal I(X;Z) 0.985185048878883
     took 15.6146s
+iter 5
+    optimal quantizer [-8.   -7.52  0.    8.  ]
+    optimal input distribution [5.00000012e-01 1.97455160e-09 4.99999984e-01]
+    optimal I(X;Z) 0.985185050871005
+    took 15.5828s
+iter 6
+    optimal quantizer [-8.   -7.44  0.    8.  ]
+    optimal input distribution [4.99999995e-01 1.70023772e-09 5.00000001e-01]
+    optimal I(X;Z) 0.9851850523603526
+    took 15.3786s
+iter 7
+    optimal quantizer [-8.   -7.36  0.    8.  ]
+    optimal input distribution [4.99999990e-01 2.54617389e-09 5.00000005e-01]
+    optimal I(X;Z) 0.9851850538811968
+    took 15.3374s
+iter 8
+    optimal quantizer [-8.   -7.28  0.    8.  ]
+    optimal input distribution [4.99999992e-01 3.67397945e-09 5.00000000e-01]
+    optimal I(X;Z) 0.9851850561330645
+    took 15.3137s
+iter 9
+    optimal quantizer [-8.  -7.2  0.   8. ]
+    optimal input distribution [4.99999994e-01 2.70081384e-09 4.99999999e-01]
+    optimal I(X;Z) 0.9851850608263424
+    took 15.2365s
+iter 10
+    optimal quantizer [-8.   -7.12  0.    8.  ]
+    optimal input distribution [5.00000014e-01 5.74636855e-10 4.99999985e-01]
+    optimal I(X;Z) 0.9851850670307517
+    took 15.2433s
+iter 11
+    optimal quantizer [-8.   -7.04  0.    8.  ]
+    optimal input distribution [4.99999989e-01 1.51081260e-09 5.00000007e-01]
+    optimal I(X;Z) 0.9851850741405723
+    took 15.2426s
+iter 12
+    optimal quantizer [-8.   -6.96  0.    8.  ]
+    optimal input distribution [4.99999992e-01 2.11955078e-09 5.00000003e-01]
+    optimal I(X;Z) 0.9851850843593885
+    took 15.0398s
+iter 13
+    optimal quantizer [-8.   -6.88  0.    8.  ]
+    optimal input distribution [5.00000020e-01 2.49518749e-09 4.99999975e-01]
+    optimal I(X;Z) 0.985185098531478
+    took 14.8654s
+iter 14
+    optimal quantizer [-8.  -6.8  0.   8. ]
+    optimal input distribution [4.99999984e-01 2.74914977e-09 5.00000010e-01]
+    optimal I(X;Z) 0.9851851180678745
+    took 14.9671s
+iter 15
+    optimal quantizer [-8.   -6.72  0.    8.  ]
+    optimal input distribution [4.99999959e-01 4.66588465e-09 5.00000031e-01]
+    optimal I(X;Z) 0.9851851437861261
+    took 14.8945s
+iter 16
+    optimal quantizer [-8.   -6.64  0.    8.  ]
+    optimal input distribution [4.99999966e-01 3.57434827e-09 5.00000026e-01]
+    optimal I(X;Z) 0.985185180126322
+    took 14.7402s
+iter 17
+    optimal quantizer [-8.   -6.56  0.    8.  ]
+    optimal input distribution [4.99999943e-01 3.77791810e-09 5.00000049e-01]
+    optimal I(X;Z) 0.9851852280898384
+    took 14.6339s
+iter 18
+    optimal quantizer [-8.   -6.48  0.    8.  ]
+    optimal input distribution [4.99999890e-01 4.02995895e-09 5.00000102e-01]
+    optimal I(X;Z) 0.9851852912753909
+    took 14.6345s
+iter 19
+    optimal quantizer [-8.  -6.4  0.   8. ]
+    optimal input distribution [4.99999887e-01 1.51143031e-09 5.00000110e-01]
+    optimal I(X;Z) 0.9851853766041663
+    took 14.4895s
+iter 20
+    optimal quantizer [-8.   -6.32  0.    8.  ]
+    optimal input distribution [4.99999885e-01 2.99879704e-09 5.00000108e-01]
+    optimal I(X;Z) 0.9851854861725976
+    took 14.3660s
+iter 21
+    optimal quantizer [-8.   -6.24  0.    8.  ]
+    optimal input distribution [4.99999800e-01 1.77091798e-09 5.00000196e-01]
+    optimal I(X;Z) 0.9851856307376229
+    took 14.2980s
+iter 22
+    optimal quantizer [-8.   -6.16  0.    8.  ]
+    optimal input distribution [4.99999735e-01 1.89295077e-09 5.00000260e-01]
+    optimal I(X;Z) 0.9851858171583108
+    took 14.3102s
+iter 23
+    optimal quantizer [-8.   -6.08  0.    8.  ]
+    optimal input distribution [4.99999649e-01 6.62690138e-10 5.00000349e-01]
+    optimal I(X;Z) 0.9851860576980169
+    took 14.3183s
+iter 24
+    optimal quantizer [-8. -6.  0.  8.]
+    optimal input distribution [4.99999544e-01 2.85203152e-09 5.00000450e-01]
+    optimal I(X;Z) 0.9851863641064746
+    took 14.2029s
+iter 25
+    optimal quantizer [-8.   -5.92  0.    8.  ]
+    optimal input distribution [4.99999408e-01 1.15924634e-09 5.00000589e-01]
+    optimal I(X;Z) 0.9851867553988404
+    took 14.0635s
+iter 26
+    optimal quantizer [-8.   -5.84  0.    8.  ]
+    optimal input distribution [4.99999259e-01 3.17636202e-10 5.00000740e-01]
+    optimal I(X;Z) 0.9851872492320451
+    took 13.9531s
+iter 27
+    optimal quantizer [-8.   -5.76  0.    8.  ]
+    optimal input distribution [4.99999062e-01 2.81486170e-09 5.00000931e-01]
+    optimal I(X;Z) 0.9851878682184838
+    took 13.9027s
+iter 28
+    optimal quantizer [-8.   -5.68  0.    8.  ]
+    optimal input distribution [4.99998758e-01 8.68638014e-10 5.00001240e-01]
+    optimal I(X;Z) 0.9851886421082702
+    took 13.8373s
+iter 29
+    optimal quantizer [-8.  -5.6  0.   8. ]
+    optimal input distribution [4.99998397e-01 6.52468786e-10 5.00001601e-01]
+    optimal I(X;Z) 0.9851896011639923
+    took 13.7299s
+iter 30
+    optimal quantizer [-8.   -5.52  0.    8.  ]
+    optimal input distribution [4.99998018e-01 8.34363442e-10 5.00001979e-01]
+    optimal I(X;Z) 0.9851907831183868
+    took 14.0056s
+iter 31
+    optimal quantizer [-8.   -5.44  0.    8.  ]
+    optimal input distribution [4.99997597e-01 1.51653909e-09 5.00002399e-01]
+    optimal I(X;Z) 0.985192230463547
+    took 13.6089s
+iter 32
+    optimal quantizer [-8.   -5.36  0.    8.  ]
+    optimal input distribution [4.99996898e-01 9.89162358e-11 5.00003101e-01]
+    optimal I(X;Z) 0.9851939936510163
+    took 13.5735s
+iter 33
+    optimal quantizer [-8.   -5.28  0.    8.  ]
+    optimal input distribution [4.99996149e-01 6.65771567e-10 5.00003849e-01]
+    optimal I(X;Z) 0.9851961260486353
+    took 13.6231s
+iter 34
+    optimal quantizer [-8.  -5.2  0.   8. ]
+    optimal input distribution [4.99995269e-01 1.64548646e-09 5.00004727e-01]
+    optimal I(X;Z) 0.9851986913187881
+    took 13.3977s
+iter 35
+    optimal quantizer [-8.   -5.12  0.    8.  ]
+    optimal input distribution [4.99994225e-01 4.97515489e-10 5.00005774e-01]
+    optimal I(X;Z) 0.9852017591878371
+    took 13.2516s
+iter 36
+    optimal quantizer [-8.   -5.04  0.    8.  ]
+    optimal input distribution [4.99992923e-01 2.08995537e-09 5.00007073e-01]
+    optimal I(X;Z) 0.9852054051871667
+    took 13.5609s
+iter 37
+    optimal quantizer [-8.   -4.96  0.    8.  ]
+    optimal input distribution [4.99991425e-01 1.81442082e-09 5.00008572e-01]
+    optimal I(X;Z) 0.985209715935536
+    took 13.3183s
+iter 38
+    optimal quantizer [-8.   -4.88  0.    8.  ]
+    optimal input distribution [4.99989261e-01 1.41505599e-11 5.00010739e-01]
+    optimal I(X;Z) 0.9852147833389515
+    took 13.2283s
+iter 39
+    optimal quantizer [-8.  -4.8  0.   8. ]
+    optimal input distribution [4.99987604e-01 8.95851771e-10 5.00012394e-01]
+    optimal I(X;Z) 0.9852207043346211
+    took 13.1295s
+iter 40
+    optimal quantizer [-8.   -4.72  0.    8.  ]
+    optimal input distribution [4.99985335e-01 2.51703603e-09 5.00014660e-01]
+    optimal I(X;Z) 0.9852275867128969
+    took 12.9767s
+iter 41
+    optimal quantizer [-8.   -4.64  0.    8.  ]
+    optimal input distribution [4.99982424e-01 1.30352458e-09 5.00017574e-01]
+    optimal I(X;Z) 0.985235545899593
+    took 12.8331s
+iter 42
+    optimal quantizer [-8.   -4.56  0.    8.  ]
+    optimal input distribution [4.99975335e-01 8.15567777e-11 5.00024665e-01]
+    optimal I(X;Z) 0.9852447003748014
+    took 12.6754s
+iter 43
+    optimal quantizer [-8.   -4.48  0.    8.  ]
+    optimal input distribution [4.99975596e-01 5.31874827e-10 5.00024403e-01]
+    optimal I(X;Z) 0.9852551751091931
+    took 12.7358s
+iter 44
+    optimal quantizer [-8.  -4.4  0.   8. ]
+    optimal input distribution [4.99971456e-01 1.40513124e-09 5.00028542e-01]
+    optimal I(X;Z) 0.985267101919759
+    took 12.7896s
+iter 45
+    optimal quantizer [-8.   -4.32  0.    8.  ]
+    optimal input distribution [4.99966747e-01 2.98412456e-11 5.00033253e-01]
+    optimal I(X;Z) 0.9852806182266934
+    took 12.7958s
+iter 46
+    optimal quantizer [-8.   -4.24  0.    8.  ]
+    optimal input distribution [4.99961444e-01 7.27825259e-10 5.00038555e-01]
+    optimal I(X;Z) 0.9852958614757447
+    took 12.6226s
+iter 47
+    optimal quantizer [-8.   -4.16  0.    8.  ]
+    optimal input distribution [4.99955492e-01 1.28073916e-09 5.00044506e-01]
+    optimal I(X;Z) 0.985312975769441
+    took 12.5451s
+iter 48
+    optimal quantizer [-8.   -4.08  0.    8.  ]
+    optimal input distribution [4.99948832e-01 1.29699641e-11 5.00051168e-01]
+    optimal I(X;Z) 0.9853321071703962
+    took 12.4911s
+iter 49
+    optimal quantizer [-8. -4.  0.  8.]
+    optimal input distribution [4.99941226e-01 2.31885637e-09 5.00058770e-01]
+    optimal I(X;Z) 0.9853533999317128
+    took 12.3791s
+iter 50
+    optimal quantizer [-8.   -3.92  0.    8.  ]
+    optimal input distribution [4.99934304e-01 2.43414237e-09 5.00065692e-01]
+    optimal I(X;Z) 0.9853770044060068
+    took 12.2811s
+iter 51
+    optimal quantizer [-8.   -3.84  0.    8.  ]
+    optimal input distribution [4.99924146e-01 1.51539744e-09 5.00075851e-01]
+    optimal I(X;Z) 0.9854030676425185
+    took 12.1581s
+iter 52
+    optimal quantizer [-8.   -3.76  0.    8.  ]
+    optimal input distribution [4.99914173e-01 1.15106199e-09 5.00085825e-01]
+    optimal I(X;Z) 0.985431735966301
+    took 12.0533s
+iter 53
+    optimal quantizer [-8.   -3.68  0.    8.  ]
+    optimal input distribution [4.99903302e-01 2.07905309e-10 5.00096697e-01]
+    optimal I(X;Z) 0.9854631555706834
+    took 12.7049s
+iter 54
+    optimal quantizer [-8.  -3.6  0.   8. ]
+    optimal input distribution [4.99891321e-01 2.16674849e-09 5.00108675e-01]
+    optimal I(X;Z) 0.9854974683417372
+    took 13.7254s
+iter 55
+    optimal quantizer [-8.   -3.52  0.    8.  ]
+    optimal input distribution [4.99878336e-01 1.18788451e-09 5.00121661e-01]
+    optimal I(X;Z) 0.9855348184197039
+    took 12.5198s
+iter 56
+    optimal quantizer [-8.   -3.44  0.    8.  ]
+    optimal input distribution [4.99864252e-01 1.70313404e-09 5.00135745e-01]
+    optimal I(X;Z) 0.9855753420376362
+    took 11.6291s
+iter 57
+    optimal quantizer [-8.   -3.36  0.    8.  ]
+    optimal input distribution [4.99849007e-01 9.15448472e-10 5.00150991e-01]
+    optimal I(X;Z) 0.9856191754194115
+    took 11.5662s
+iter 58
+    optimal quantizer [-8.   -3.28  0.    8.  ]
+    optimal input distribution [4.99832556e-01 5.21961672e-10 5.00167443e-01]
+    optimal I(X;Z) 0.9856664494254306
+    took 11.4657s
+iter 59
+    optimal quantizer [-8.  -3.2  0.   8. ]
+    optimal input distribution [4.99814942e-01 3.52267700e-09 5.00185052e-01]
+    optimal I(X;Z) 0.9857172900477933
+    took 11.3611s
+iter 60
+    optimal quantizer [-8.   -3.12  0.    8.  ]
+    optimal input distribution [4.99795996e-01 3.88827898e-09 5.00203998e-01]
+    optimal I(X;Z) 0.9857718229774817
+    took 11.3266s
+iter 61
+    optimal quantizer [-8.   -3.04  0.    8.  ]
+    optimal input distribution [4.99775726e-01 4.37049530e-09 5.00224268e-01]
+    optimal I(X;Z) 0.9858301660308274
+    took 11.3276s
+iter 62
+    optimal quantizer [-8.   -2.96  0.    8.  ]
+    optimal input distribution [4.99754058e-01 1.22835366e-09 5.00245940e-01]
+    optimal I(X;Z) 0.9858924346701297
+    took 11.1945s
+iter 63
+    optimal quantizer [-8.   -2.88  0.    8.  ]
+    optimal input distribution [4.99731043e-01 4.18441821e-09 5.00268951e-01]
+    optimal I(X;Z) 0.9859587358880758
+    took 11.1023s
+iter 64
+    optimal quantizer [-8.  -2.8  0.   8. ]
+    optimal input distribution [4.99706580e-01 3.12317476e-09 5.00293416e-01]
+    optimal I(X;Z) 0.9860291774302056
+    took 11.0272s
+iter 65
+    optimal quantizer [-8.   -2.72  0.    8.  ]
+    optimal input distribution [4.99680664e-01 3.59879669e-09 5.00319331e-01]
+    optimal I(X;Z) 0.9861038577726087
+    took 10.9169s
+iter 66
+    optimal quantizer [-8.   -2.64  1.12  8.  ]
+    optimal input distribution [0.36600536 0.20219338 0.43180126]
+    optimal I(X;Z) 0.9866235759732576
+    took 10.8519s
+iter 67
+    optimal quantizer [-8.   -2.56  1.2   8.  ]
+    optimal input distribution [0.35419127 0.22382154 0.42198718]
+    optimal I(X;Z) 0.9998341160525164
+    took 10.7807s
+iter 68
+    optimal quantizer [-8.   -2.48  1.2   8.  ]
+    optimal input distribution [0.35269801 0.23009223 0.41720976]
+    optimal I(X;Z) 1.013250542992425
+    took 10.6949s
+iter 69
+    optimal quantizer [-8.   -2.4   1.28  8.  ]
+    optimal input distribution [0.34631268 0.24554741 0.4081399 ]
+    optimal I(X;Z) 1.0269833903647227
+    took 10.6120s
+iter 70
+    optimal quantizer [-8.   -2.32  1.28  8.  ]
+    optimal input distribution [0.34711377 0.24897474 0.40391149]
+    optimal I(X;Z) 1.0405615012292655
+    took 10.5524s
+iter 71
+    optimal quantizer [-8.   -2.24  1.28  8.  ]
+    optimal input distribution [0.34852227 0.25151234 0.39996538]
+    optimal I(X;Z) 1.0537248177757461
+    took 10.5236s
+iter 72
+    optimal quantizer [-8.   -2.16  1.28  8.  ]
+    optimal input distribution [0.35044847 0.25320704 0.39634448]
+    optimal I(X;Z) 1.066306954398315
+    took 10.3779s
+iter 73
+    optimal quantizer [-8.   -2.08  1.36  8.  ]
+    optimal input distribution [0.34944817 0.26172016 0.38883167]
+    optimal I(X;Z) 1.0783997159100418
+    took 10.1993s
+iter 74
+    optimal quantizer [-8.   -2.    1.36  8.  ]
+    optimal input distribution [0.35245227 0.26149569 0.38605204]
+    optimal I(X;Z) 1.0895754282415457
+    took 10.2195s
+iter 75
+    optimal quantizer [-8.   -1.92  1.36  8.  ]
+    optimal input distribution [0.35571447 0.26057393 0.3837116 ]
+    optimal I(X;Z) 1.0996755075302906
+    took 10.1949s
+iter 76
+    optimal quantizer [-8.   -1.84  1.36  8.  ]
+    optimal input distribution [0.35917915 0.25897789 0.38184296]
+    optimal I(X;Z) 1.1085690222500644
+    took 10.0701s
+iter 77
+    optimal quantizer [-8.   -1.76  1.36  8.  ]
+    optimal input distribution [0.36279564 0.25673017 0.38047419]
+    optimal I(X;Z) 1.1161423391255316
+    took 10.0134s
+iter 78
+    optimal quantizer [-8.   -1.68  1.36  8.  ]
+    optimal input distribution [0.36651817 0.25385352 0.37962831]
+    optimal I(X;Z) 1.122302351489088
+    took 9.7734s
+iter 79
+    optimal quantizer [-8.   -1.6   1.36  8.  ]
+    optimal input distribution [0.3703059  0.25037126 0.37932283]
+    optimal I(X;Z) 1.1269792654936543
+    took 9.6722s
+iter 80
+    optimal quantizer [-8.   -1.52  1.36  8.  ]
+    optimal input distribution [0.37412381 0.24630664 0.37956955]
+    optimal I(X;Z) 1.1301287677614817
+    took 9.6177s
+iter 81
+    optimal quantizer [-8.   -1.44  1.36  8.  ]
+    optimal input distribution [0.37794176 0.24168412 0.38037412]
+    optimal I(X;Z) 1.1317334813805084
+    took 9.6179s
+iter 82
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 9.4374s
+iter 83
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 9.5942s
+iter 84
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 9.4566s
+iter 85
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 9.5516s
+iter 86
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 9.3700s
+iter 87
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 9.1908s
+iter 88
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 9.1228s
+iter 89
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 8.9724s
+iter 90
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 8.9137s
+iter 91
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 8.8752s
+iter 92
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 8.8304s
+iter 93
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 8.6873s
+iter 94
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 8.5116s
+iter 95
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 8.4276s
+iter 96
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 8.4648s
+iter 97
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 8.3057s
+iter 98
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 8.5810s
+iter 99
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 8.4599s
+iter 100
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 8.3318s
+iter 101
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 8.0823s
+iter 102
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 8.1111s
+iter 103
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 7.7960s
+iter 104
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 7.7284s
+iter 105
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 7.5991s
+iter 106
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 7.5534s
+iter 107
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 7.4429s
+iter 108
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 7.3659s
+iter 109
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 7.2798s
+iter 110
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 7.1300s
+iter 111
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 7.0175s
+iter 112
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 6.9473s
+iter 113
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 6.8677s
+iter 114
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 6.8044s
+iter 115
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 6.6967s
+iter 116
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 6.6186s
+iter 117
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 6.5236s
+iter 118
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 6.4460s
+iter 119
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 6.4347s
+iter 120
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 6.3895s
+iter 121
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 6.3137s
+iter 122
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 6.2509s
+iter 123
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 6.1585s
+iter 124
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 6.0757s
+iter 125
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 6.0036s
+iter 126
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 5.9067s
+iter 127
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 5.8358s
+iter 128
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 5.7515s
+iter 129
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 5.6704s
+iter 130
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 5.5873s
+iter 131
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 5.4937s
+iter 132
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 5.4396s
+iter 133
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 5.3690s
+iter 134
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 5.3050s
+iter 135
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 5.1982s
+iter 136
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 5.0745s
+iter 137
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 4.9791s
+iter 138
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 4.9030s
+iter 139
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 4.8145s
+iter 140
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 4.7280s
+iter 141
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 4.6962s
+iter 142
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 4.6030s
+iter 143
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 4.5223s
+iter 144
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 4.4430s
+iter 145
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 4.3670s
+iter 146
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 4.3078s
+iter 147
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 4.2139s
+iter 148
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 4.1289s
+iter 149
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 4.0398s
+iter 150
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 3.9712s
+iter 151
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 3.8888s
+iter 152
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 3.8009s
+iter 153
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 3.7236s
+iter 154
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 3.6375s
+iter 155
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 3.5497s
+iter 156
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 3.4721s
+iter 157
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 3.3997s
+iter 158
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 3.2644s
+iter 159
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 3.1733s
+iter 160
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 3.1008s
+iter 161
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 3.0103s
+iter 162
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 2.9361s
+iter 163
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 2.8420s
+iter 164
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 2.7702s
+iter 165
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 2.7382s
+iter 166
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 2.6327s
+iter 167
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 2.5386s
+iter 168
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 2.4550s
+iter 169
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 2.3761s
+iter 170
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 2.2940s
+iter 171
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 2.2096s
+iter 172
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 2.1492s
+iter 173
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 2.0561s
+iter 174
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 1.9740s
+iter 175
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 1.9055s
+iter 176
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 1.8726s
+iter 177
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 1.7343s
+iter 178
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 1.6490s
+iter 179
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 1.5760s
+iter 180
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 1.4868s
+iter 181
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 1.4036s
+iter 182
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 1.3185s
+iter 183
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 1.2354s
+iter 184
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 1.1513s
+iter 185
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 1.0688s
+iter 186
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 0.9850s
+iter 187
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 0.9081s
+iter 188
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 0.8326s
+iter 189
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 0.7404s
+iter 190
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 0.6567s
+iter 191
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 0.5746s
+iter 192
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 0.4926s
+iter 193
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 0.4107s
+iter 194
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 0.3291s
+iter 195
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 0.2466s
+iter 196
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 0.1639s
+iter 197
+    optimal quantizer [-8.   -1.36  1.36  8.  ]
+    optimal input distribution [0.38173627 0.23652745 0.38173627]
+    optimal I(X;Z) 1.1318035947103127
+    took 0.0824s
+Took 1617.5749819278717s
+End solving by exhaustive search
+

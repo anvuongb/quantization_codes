@@ -1,3 +1,45 @@
 X=[-4, -2, 0, 2, 4], N=50, M=5, Sigma=1
 start=-8, end=8
 
+iter 0
+    optimal quantizer [-8.   -7.68 -1.92  1.6   2.56  8.  ]
+    optimal input distribution [3.42909521e-01 5.29059024e-09 3.07313418e-01 3.79251669e-08
+ 3.49777013e-01]
+    optimal I(X;Z) 1.4058261879845169
+    took 1000.3366s
+iter 1
+    optimal quantizer [-8.   -7.36 -1.92  1.6   2.56  8.  ]
+    optimal input distribution [3.42908832e-01 2.59729157e-09 3.07315145e-01 1.85702888e-08
+ 3.49776000e-01]
+    optimal I(X;Z) 1.4058295371123308
+    took 963.9602s
+iter 2
+    optimal quantizer [-8.   -7.04 -1.92  1.6   2.56  8.  ]
+    optimal input distribution [3.42906108e-01 1.42844369e-10 3.07320505e-01 1.35551695e-09
+ 3.49773385e-01]
+    optimal I(X;Z) 1.4058392588496216
+    took 916.7810s
+iter 3
+    optimal quantizer [-8.   -6.72 -1.92  1.6   2.56  8.  ]
+    optimal input distribution [3.42899190e-01 2.02120565e-09 3.07334447e-01 1.38904806e-08
+ 3.49766345e-01]
+    optimal I(X;Z) 1.4058647889800877
+    took 875.1329s
+    iter 4
+    optimal quantizer [-8.   -6.4  -1.92  1.6   2.56  8.  ]
+    optimal input distribution [3.42883138e-01 3.01903042e-09 3.07367357e-01 1.90168813e-08
+ 3.49749479e-01]
+    optimal I(X;Z) 1.4059255335770264
+    took 817.0594s
+iter 5
+    optimal quantizer [-8.   -6.08 -1.92  1.6   2.56  8.  ]
+    optimal input distribution [3.42848194e-01 1.87241102e-09 3.07438598e-01 1.20516634e-08
+ 3.49713192e-01]
+    optimal I(X;Z) 1.4060566762114228
+    took 788.9653s
+iter 6
+    optimal quantizer [-8.   -5.76 -1.92  1.6   2.56  8.  ]
+    optimal input distribution [3.42779818e-01 1.66750347e-09 3.07578557e-01 1.16838700e-08
+ 3.49641611e-01]
+    optimal I(X;Z) 1.4063145593657822
+    took 752.8333s
