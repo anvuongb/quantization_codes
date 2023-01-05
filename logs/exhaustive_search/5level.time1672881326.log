@@ -1,3 +1,15 @@
 X=[-4, -2, 0, 2, 4], N=50, M=5, Sigma=1
 start=-8, end=8
 
+iter 0
+    optimal quantizer [-8.   -7.68 -1.92  1.6   2.56  8.  ]
+    optimal input distribution [3.42909793e-01 6.71115150e-10 3.07313121e-01 6.95729019e-09
+ 3.49777078e-01]
+    optimal I(X;Z) 1.4058261967949108
+    took 2934.3543s
+iter 1
+    optimal quantizer [-8.   -7.36 -1.92  1.6   2.56  8.  ]
+    optimal input distribution [3.42909412e-01 1.89423341e-09 3.07314730e-01 2.07515201e-08
+ 3.49775836e-01]
+    optimal I(X;Z) 1.4058295371647787
+    took 2142.2852s
